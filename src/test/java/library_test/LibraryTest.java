@@ -20,6 +20,10 @@ public class LibraryTest {
 	public void init() {
 		this.lib = new Library();
 	}
+	@Test
+	public void test() {
+		fail("Not yet implemented ");
+	}
 
 	@Test
 	public void testAddItem() {
