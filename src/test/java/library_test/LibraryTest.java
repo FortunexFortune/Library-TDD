@@ -21,7 +21,7 @@ public class LibraryTest {
 		this.lib = new Library();
 	}
 	@Test
-	public void test() {
+	public void thisWIllFail() {
 		fail("Not yet implemented ");
 	}
 
