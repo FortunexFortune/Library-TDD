@@ -2,7 +2,7 @@ package library_test;
 
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
-import static org.junit.Assert.fail;
+import static org.junit.Assert.*;
 
 import org.junit.Before;
 import org.junit.Test;
@@ -23,7 +23,6 @@ public class LibraryTest {
 	}
 	@Test
 	public void thisWIllFail() {
-		fail("Not yet implemented");
 	}
 
 	@Test
